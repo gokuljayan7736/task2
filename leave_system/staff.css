@@ -1,0 +1,106 @@
+*{
+  margin:unset;
+  padding: unset;
+  font-family:Arial, Helvetica, sans-serif;
+  
+}
+.nav-pills .nav-link.active{
+  color:red;
+}
+
+.btn-11{
+  width:300px;
+  border-radius:2px;
+}
+.staff{
+  position:fixed;
+  left:0px;
+  top:302px;
+}
+
+.me-3{
+  position:fixed;
+  top:250px;
+  left:0px;
+}
+  
+.container{
+  padding-left:0px;
+  padding-right:0px;
+}
+  
+#con1{
+  position:relative;
+  left:150px;
+  right:150px;
+}
+
+.table2{
+  position:relative;
+  top:200px;
+  left:0px;
+  text-align: center;
+  border:2px solid; 
+  margin-top:200px;
+  margin-bottom:20px;
+}
+  
+.table2 th{
+  text-transform: uppercase;
+  font-size:18px;
+}
+
+.table2 td{
+  font-size:15px;
+}
+
+.circle1{
+  background-color: #8BC6EC;
+  background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+  height:150px;
+  width:300px;
+  border-radius: 15px;
+  text-align: center;
+  
+}
+
+.both{
+  display:flex;
+  justify-content: space-around;
+  position:relative;
+  bottom:75px;
+  margin-top:20px;
+}
+
+.circle2{
+  background-color: #8BC6EC;
+  background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+  height:150px;
+  width:300px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.circle3{
+  background-color: #8BC6EC;
+  background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+  height:150px;
+  width:300px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.card-title1{
+  margin-top:10px;
+  padding:10px;
+}
+
+.card-text1{
+  font-size:25px;
+  margin-top:20px;
+ }
+ 
+ #con1{
+  padding-left:0px;
+  padding-right: 0px;;
+}

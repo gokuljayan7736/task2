@@ -1,0 +1,60 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+  background-color:gray;
+}
+
+.login-div{
+  height:500px;
+  width:500px;
+  background-color:white;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top:30%;
+  -webkit-box-shadow: 10px 10px 97px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 97px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 97px 0px rgba(0,0,0,0.75);
+
+}
+.login-details{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top:30%;
+  left:10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type="email"]{
+  width:70%;
+}
+
+input[type="password"]{
+  border-color: none;
+  width:70%;
+}
+
+.login-div h1{
+  width:500px;
+  color:red;
+  text-align: center;
+}
+
+input[type="submit"]{
+  width:100px;
+  color:white;
+  margin-top:50px;
+ }
+
+p{
+  color:red;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:25px;
+}
